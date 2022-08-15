@@ -5,6 +5,7 @@ Using the Youtube API, the application knows how to pull all the short videos an
 
 ## Screenshots
   <p float="left">
+  <img src="./ScreenRecording.gif" width="180" />&nbsp;
     <img src="./ScreenShot00.png" width="180" />&nbsp;
   <img src="./ScreenShot01.png" width="180" />&nbsp;
 </p>
